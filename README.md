@@ -2,7 +2,7 @@
 
 ## Team
 
- - [Volodymyr Chernetskyi](https://github.com/chernetskyi)
+ - [Bohdan Yatskiv](https://github.com/yatskivbohdan)
 
 ## Prerequisites
 
